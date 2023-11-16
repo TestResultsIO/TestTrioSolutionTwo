@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ModelCapabilities.json" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Progile.TRIO.BaseModel">

@@ -3,5 +3,12 @@
   "ProjectId": "e54860c5-5777-4981-b3ef-0df8df4eac17",
   "ServerUri": "https://stage.testresults.io/",
   "Environments": [],
-  "SolutionVersion": "4.0"
+  "SolutionVersion": "6.3",
+  "SolutionType": null,
+  "ElementsFilter": [],
+  "GetLabelTextSettings": {
+    "OcrPadding": 5,
+    "MaxDetectedCharacters": 40,
+    "MaxDetectedWords": 5
+  }
 }
