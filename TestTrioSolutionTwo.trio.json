@@ -2,8 +2,22 @@
   "CustomerId": "93d2e5cb-4877-448c-8c5e-496dba26f178",
   "ProjectId": "e54860c5-5777-4981-b3ef-0df8df4eac17",
   "ServerUri": "https://stage.testresults.io/",
-  "Environments": [],
-  "SolutionVersion": "6.3",
+  "Environments": [
+    {
+      "$type": "Progile.Trio.Designer.DomainObjects.EnvironmentImage, Progile.Trio.Designer",
+      "ImagePathStaticEnvironment": null,
+      "RaiseImagePathPopupBeforeExecution": false,
+      "Id": "00000000-0000-0000-0000-000000000000",
+      "Name": "Simulation"
+    },
+    {
+      "$type": "Progile.Trio.Designer.DomainObjects.EnvironmentLocal, Progile.Trio.Designer",
+      "MonitorId": 0,
+      "Id": "a8e78563-23bc-47d0-9ae7-c592840601b4",
+      "Name": "Local Monitor"
+    }
+  ],
+  "SolutionVersion": "8.0",
   "SolutionType": null,
   "ElementsFilter": [],
   "GetLabelTextSettings": {
