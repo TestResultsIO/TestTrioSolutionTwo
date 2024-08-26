@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Run": {
+      "commandName": "Executable",
+      "executablePath": "Progile.ATE.Designer.EngineHost.exe",
+      "commandLineArgs": "testExecution549 5.7.0.0"
+    }
+  }
+}
